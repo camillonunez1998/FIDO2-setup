@@ -128,5 +128,3 @@ This does not work if the disk is LUKS-encrypted and you lack the passphrase, or
 ```bash
 pamu2fcfg -n >> ~/.config/Yubico/u2f_keys
 ```
-
-> Do not publish the contents of `u2f_keys`, hostnames, or credentials in the wiki.
